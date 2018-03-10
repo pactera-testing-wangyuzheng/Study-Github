@@ -17,6 +17,9 @@ Plan<br>
  4.3 merger <br>
  4.4 pull request <br>
  4.5 commit change on master <br>
+ 4.6 from fork to pull request <br>
+ 4.7 <br>
+ 
  <br>
 5.others<br>
  5.1 command<br>
