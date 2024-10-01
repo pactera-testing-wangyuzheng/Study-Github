@@ -27,3 +27,8 @@ Plan<br>
  
 
 
+基本コマンド説明：
+pull
+commit
+push
+merge
